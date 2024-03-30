@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
